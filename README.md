@@ -2,7 +2,7 @@
 
 Watch your favourite animes with your usual provider, synchronized with [MyAnimeList](https://myanimelist.net/).
 
-[![BMC](https://www.buymeacoffee.com/assets/img/guidelines/logo-mark-1.svg)](https://www.buymeacoffee.com/ajtazer)
+[![BMC](https://cdn.iconscout.com/icon/free/png-256/buymeacoffee-3628667-3029892.png)](https://www.buymeacoffee.com/ajtazer)
 
 ![MyAnime](https://i.imgur.com/RsnJeZ0.gif)
 
