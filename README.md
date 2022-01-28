@@ -2,9 +2,9 @@
 
 Watch your favourite animes with your usual provider, synchronized with [MyAnimeList](https://myanimelist.net/).
 
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/carleslc)
+[![BMC](https://www.buymeacoffee.com/assets/img/guidelines/logo-mark-1.svg)](https://www.buymeacoffee.com/ajtazer)
 
-![MyAnime](https://i.imgur.com/OnxMvdY.png)
+![MyAnime](https://i.imgur.com/RsnJeZ0.gif)
 
 ## Why to use?
 
@@ -49,8 +49,6 @@ Your preferences are saved in the browser, so you only need to change them when 
 - 🇬🇧 [GogoAnime.nl](https://gogoanime.nl/)
 - 🇬🇧 [9Anime](https://9anime.to/)
 - 🇬🇧 [Zoro](https://zoro.to/)
-- 🇬🇧 I'm Feeling Lucky
-- 🇪🇸 Voy a tener suerte
 - 🇪🇸 [AnimeFlv](https://www.animeflv.net)
 - 🇪🇸 [AnimeID](https://www.animeid.tv/)
 - 🇪🇸 [AnimeFenix](https://animefenix.com/)
@@ -61,24 +59,3 @@ Your preferences are saved in the browser, so you only need to change them when 
 Some options are based on search engine (_[DuckDuckGo](https://duckduckgo.com/) I'm Feeling Ducky_), trying to get a proper streamer, but it doesn't mean it always work. Sometimes it redirects to another anime, a non-related page, or it is in another language.
 
 If selected provider cannot find an episode try to change the provider or choose an alternative title.
-
-## Contact
-
-_Your favourite provider is not listed here? Please, open an issue [here](http://github.com/Carleslc/MyAnime/issues) and we will add it!_
-
-Open an issue too if you have any doubt, advice or you want to report about something broken.
-
-### Disclaimer
-
-This website does not host any video, it is a client-side website, just linking and sharing content from non-affiliated external providers.
-
-Official providers like Crunchyroll or Netflix are recommended. Use other providers at your own risk.
-
-<p align="center">
-  <br>
-  <img src="src/statics/chibi.png">
-</p>
-
-<p align="center">
-  <i>Enjoy!</i>
-</p>
